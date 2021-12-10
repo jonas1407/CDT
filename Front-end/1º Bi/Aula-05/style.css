@@ -1,0 +1,35 @@
+.main-title {
+
+    color: #272727;
+    font-size: 42px;
+}
+
+
+.main-subtitle {
+    color: #7e7e7e;
+}
+
+
+
+.post {
+    background-color: #cecdcc;
+}
+
+
+.post h1{
+    color: salmon;
+}
+
+
+.post a {
+    color: white;
+    background-color: red;
+    border-radius: 12px;
+    padding: 15px;
+}
+
+#articleTitle {
+
+    font-size: 144px;
+
+}
